@@ -1,2 +1,9 @@
 # python-dice-roll
-idek why im making this, but hey, random numbers
+
+How to start it;
+
+```sh
+python dice_roll.py
+```
+
+Good luck!
